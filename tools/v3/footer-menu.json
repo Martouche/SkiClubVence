@@ -1,0 +1,15 @@
+{
+  "menu": "liens-rapides-scv",
+  "menu_typography_typography": "custom",
+  "menu_typography_font_family": "Source Sans 3",
+  "menu_typography_font_weight": "400",
+  "menu_typography_font_size": {"unit": "px", "size": 15, "sizes": []},
+  "menu_typography_line_height": {"unit": "em", "size": 1.4, "sizes": []},
+  "menu_typography_text_transform": "none",
+  "color_menu_item": "rgba(255,255,255,0.85)",
+  "color_menu_item_hover": "#E8552D",
+  "color_menu_item_active": "#FFFFFF",
+  "padding_horizontal_menu_item": {"unit": "px", "size": 0, "sizes": []},
+  "padding_vertical_menu_item": {"unit": "px", "size": 5, "sizes": []},
+  "custom_css": ""
+}

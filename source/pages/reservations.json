@@ -1,0 +1,16 @@
+{
+  "id": 33953,
+  "slug": "reservations",
+  "title": "Réservations",
+  "link": "https://skiclubvence.com/reservations/",
+  "modified": "2025-09-03T09:09:24",
+  "featured_media": 0,
+  "vc_residue_in_rendered": [
+    "vc_column",
+    "vc_column_text",
+    "vc_row"
+  ],
+  "uploads_referenced": [],
+  "clean_text": "",
+  "rendered_html": "<div class=\"wpb-content-wrapper\" id=\"wpb-content-root\"><p>[vc_row][vc_column][vc_column_text css= » »]<strong>[ameliaeventscalendarbooking]</strong>[/vc_column_text][vc_column_text css= » »]<strong>[ameliaeventslistbooking]</strong>[/vc_column_text][vc_column_text css= » »]<strong>[ameliacatalogbooking service=1]</strong>[/vc_column_text][/vc_column][/vc_row]</p>\n</div>"
+}

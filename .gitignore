@@ -1,0 +1,16 @@
+# Config MCP locale (contient des identifiants)
+.mcp.json
+
+# Médias récupérés de l'ancien site (déjà dans la médiathèque WordPress, ~200 Mo)
+source/media/
+source/gallery/
+source/favicon-skiclubvence-512.png
+
+# Captures et pages HTML téléchargées pour les vérifications
+source/*.html
+source/p.html
+source/links.txt
+source/m.txt
+shots/
+__pycache__/
+*.pyc
