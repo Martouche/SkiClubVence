@@ -1,0 +1,98 @@
+{
+  "menu": "menu-principal-scv",
+  "menu_typography_typography": "custom",
+  "menu_typography_font_family": "Source Sans 3",
+  "menu_typography_font_weight": "700",
+  "menu_typography_font_size": {
+    "unit": "px",
+    "size": 13,
+    "sizes": []
+  },
+  "menu_typography_font_size_tablet": {
+    "unit": "px",
+    "size": 16,
+    "sizes": []
+  },
+  "menu_typography_line_height": {
+    "unit": "em",
+    "size": 1.2,
+    "sizes": []
+  },
+  "menu_typography_text_transform": "uppercase",
+  "menu_typography_letter_spacing": {
+    "unit": "em",
+    "size": 0.03,
+    "sizes": []
+  },
+  "color_menu_item": "#132230",
+  "color_menu_item_hover": "#E8552D",
+  "pointer_color_menu_item_hover": "#E8552D",
+  "color_menu_item_active": "#0B3C5D",
+  "pointer_color_menu_item_active": "#E8552D",
+  "pointer_width": {
+    "unit": "px",
+    "size": 3,
+    "sizes": []
+  },
+  "padding_horizontal_menu_item": {
+    "unit": "px",
+    "size": 5,
+    "sizes": []
+  },
+  "padding_vertical_menu_item": {
+    "unit": "px",
+    "size": 10,
+    "sizes": []
+  },
+  "dropdown_typography_typography": "custom",
+  "dropdown_typography_font_family": "Source Sans 3",
+  "dropdown_typography_font_weight": "700",
+  "dropdown_typography_font_size": {
+    "unit": "px",
+    "size": 15,
+    "sizes": []
+  },
+  "dropdown_typography_text_transform": "uppercase",
+  "dropdown_typography_letter_spacing": {
+    "unit": "em",
+    "size": 0.05,
+    "sizes": []
+  },
+  "color_dropdown_item": "#FFFFFF",
+  "background_color_dropdown_item": "#0B3C5D",
+  "color_dropdown_item_hover": "#FFFFFF",
+  "background_color_dropdown_item_hover": "#1F7AB8",
+  "color_dropdown_item_active": "#FFFFFF",
+  "background_color_dropdown_item_active": "#E8552D",
+  "padding_horizontal_dropdown_item": {
+    "unit": "px",
+    "size": 24,
+    "sizes": []
+  },
+  "padding_vertical_dropdown_item": {
+    "unit": "px",
+    "size": 16,
+    "sizes": []
+  },
+  "dropdown_top_distance": {
+    "unit": "px",
+    "size": 20,
+    "sizes": []
+  },
+  "dropdown_divider_border": "solid",
+  "dropdown_divider_width": {
+    "unit": "px",
+    "size": 1,
+    "sizes": []
+  },
+  "dropdown_divider_color": "rgba(255,255,255,0.12)",
+  "toggle_color": "#0B3C5D",
+  "toggle_background_color": "rgba(0,0,0,0)",
+  "toggle_size": {
+    "unit": "px",
+    "size": 28,
+    "sizes": []
+  },
+  "custom_css": "selector { flex-grow: 1; }\nselector .elementor-nav-menu--main .elementor-item { white-space: nowrap; }\nselector .elementor-nav-menu--main .sub-menu { border-radius: 10px; overflow: hidden; }\nselector .elementor-nav-menu--dropdown.elementor-nav-menu__container { position: absolute; z-index: 9997; margin-top: 0; box-shadow: 0 24px 40px -20px rgba(8,43,67,.6); }",
+  "full_width": "stretch"
+}
